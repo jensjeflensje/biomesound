@@ -1,0 +1,6 @@
+name: BiomeSound
+version: ${project.version}
+main: dev.jensderuiter.biomesound.Biomesound
+api-version: 1.15
+authors: [jensjeflensje]
+description: Deze plugin geeft elke biome een geluidje,.
